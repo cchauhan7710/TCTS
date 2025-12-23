@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="g4" x1="0" x2="1">
+      <stop offset="0" stop-color="#eef2ff"/>
+      <stop offset="1" stop-color="#fff7ed"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" rx="18" fill="url(#g4)"/>
+  <text x="70" y="110" font-family="Inter, Arial" font-size="34" fill="#0f172a" font-weight="700">Dashboard / Admin Panel</text>
+  <rect x="80" y="160" width="1040" height="420" rx="12" fill="#fff"/>
+  <g fill="#f8fafc" transform="translate(100,190)">
+    <rect x="0" y="0" width="220" height="90" rx="8"/>
+    <rect x="240" y="0" width="220" height="90" rx="8"/>
+    <rect x="480" y="0" width="220" height="90" rx="8"/>
+  </g>
+</svg>

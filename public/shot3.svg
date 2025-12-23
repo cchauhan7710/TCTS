@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="g3" x1="0" x2="1">
+      <stop offset="0" stop-color="#f0f9ff"/>
+      <stop offset="1" stop-color="#eef2ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" rx="18" fill="url(#g3)"/>
+  <text x="70" y="110" font-family="Inter, Arial" font-size="34" fill="#0f172a" font-weight="700">School / College Website — Info</text>
+  <rect x="80" y="160" width="440" height="420" rx="12" fill="#fff"/>
+  <rect x="540" y="160" width="520" height="420" rx="12" fill="#fff"/>
+</svg>

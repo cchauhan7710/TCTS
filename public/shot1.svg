@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#eef2ff"/>
+      <stop offset="1" stop-color="#e6fffa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" rx="18" fill="url(#g1)"/>
+  <rect x="40" y="40" width="1120" height="120" rx="12" fill="#ffffff" opacity="0.7"/>
+  <rect x="40" y="180" width="540" height="420" rx="10" fill="#fff"/>
+  <rect x="610" y="180" width="520" height="240" rx="10" fill="#fff"/>
+  <text x="70" y="115" font-family="Inter, Arial" font-size="34" fill="#0f172a" font-weight="700">Business Website — Landing</text>
+  <text x="70" y="230" font-family="Inter, Arial" font-size="20" fill="#6b7280">Hero image, CTA and short intro copy — clean layout.</text>
+</svg>

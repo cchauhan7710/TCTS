@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff7ed"/>
+      <stop offset="1" stop-color="#f0f9ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" rx="18" fill="url(#g2)"/>
+  <rect x="60" y="60" width="1080" height="580" rx="14" fill="#fff"/>
+  <text x="90" y="120" font-family="Inter, Arial" font-size="32" fill="#0f172a" font-weight="700">Portfolio Website — Gallery</text>
+  <g transform="translate(90,160)">
+    <rect x="0" y="0" width="320" height="200" rx="12" fill="#f8fafc"/>
+    <rect x="340" y="0" width="320" height="200" rx="12" fill="#f8fafc"/>
+    <rect x="680" y="0" width="320" height="200" rx="12" fill="#f8fafc"/>
+  </g>
+</svg>
